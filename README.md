@@ -1,28 +1,22 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog Preview Card Solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
-
-## Overview
-
-This is my attempted solution to the QR Code Component Challenge on Frontend Mentor. The challenge required building building a responsive layout for a card.
+This is my attempted solution to the Blog Preview Card Challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). The challenge required building building a responsive layout for a blog card.
 
 ## Live Demo
 
-[Live Demo of QR Code Component Solution](https://weebdora.github.io/qr-code-component/)
+[Live Demo of Blog Preview Card](https://weebdora.github.io/blog-preview-card/)
 
 ## Screenshot 
 
-![QR Code Component Preview](images/preview.png)
+![Blog Preview Card](assets/images/preview.png)
 
 ## What I learned myself
 
-- Applied Google fonts in an actual project
-- Tried to apply mobile-first design
-- Found out common device widths like 480px for mobile, 768px for tablets, 1024px for laptops
-- Revisited media queries syntax
-- Better to use relative units with padding and fixed units with margin and borders
-- And most importantly, worked with Figma for the first time. How to get color, fonts and other styles from a design file and converted it into code 
+- Applied Web Fonts again. This time, I used a font-face rule instead
+- Learning from the QR project, I used max-width and Flexbox instead of multiple media queries
+- Got more experience with Figma. Learned how to identify hover states, worked with spacing
+- Used CSS variables for the first time in a project 
 
 ## Improvements
 
-After some feedback from others and AI, replaced the use of media queries with Flexbox and max-width
+ <!-- Will add this part after I get a review from others and AI -->
